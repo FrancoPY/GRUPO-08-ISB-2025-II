@@ -8,3 +8,5 @@ Este repositorio contiene el proyecto del grupo 8 desarrollado en el curso de In
 | SANCHEZ VALVERDE, MARIEL LINETTE  |  |  |
 | VILCHEZ COTRINA, PAMELA NICOLE |  |  |
 | PERALTA YAUYO, FRANCO PEDRO SEBASTIAN |  | 72553320|
+
+aaaa
